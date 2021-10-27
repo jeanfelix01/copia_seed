@@ -3,7 +3,7 @@ IFS='
 '
 
 ##Script para automatizar a movimentação de torrents da seedbox local para a seedbox  no TD
-#versao 0.1
+#versao 1.0
 
 arquivos='/mnt/torrent-seed/torrents-netfelix/arquivos-torrents/'
 antigos='/mnt/torrent-seed/torrents-netfelix/torrents-antigos/'
